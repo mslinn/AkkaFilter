@@ -1,0 +1,25 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AkkaFilter" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <extension name="scalaCoverage" />
+    <module name="default-11f3b6" />
+    <setting name="path" value="com.micronautics.akkaFilter.ConfiguratorTest" />
+    <setting name="package" value="" />
+    <setting name="vmparams" value="" />
+    <setting name="params" value="" />
+    <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <setting name="searchForTest" value="Across module dependencies" />
+    <setting name="testName" value="" />
+    <setting name="testKind" value="Class" />
+    <setting name="showProgressMessages" value="true" />
+    <RunnerSettings RunnerId="Debug">
+      <option name="DEBUG_PORT" value="" />
+      <option name="TRANSPORT" value="0" />
+      <option name="LOCAL" value="true" />
+    </RunnerSettings>
+    <ConfigurationWrapper RunnerId="Debug" />
+    <method>
+      <option name="SBT.BeforeRunTask" enabled="true" action="test:products" runInCurrentModule="false" />
+    </method>
+  </configuration>
+</component>
